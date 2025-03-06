@@ -1,0 +1,2 @@
+ 1. Learn Git basics\n2. Practice branching\n3. Work with remote repositories"  
+
